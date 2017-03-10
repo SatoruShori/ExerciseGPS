@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Exercise GPS</string>
+    <string name="preference_file_key">ExerciseGPS</string>
+    <string name="menu_location">Location</string>
+    <string name="menu_bmr">การคำนวน BMR</string>
+    <string name="menu_running_burn">การเผาผลาญด้วยการวิ่ง</string>
+    <string name="image_view">ดูรูป</string>
+    <string name="menu_selected_food">อาหารที่เลือกไว้</string>
+    <string name="menu_report">รายงานผล</string>
+    <string name="menu_history">ดูรายการย้อนหลัง</string>
+    <string name="title_activity_brm">BRMActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bmr_male">ชาย</string>
+    <string name="bmr_female">หญิง</string>
+    <string name="bmr_base_requirement">BMR (Basal Metabolic Rate)\nพลังงานที่จำเป็นพื้นฐานในการมีชีวิต</string>
+    <string name="bmr_total_requirement">TDEE (Total Daily Energy Expenditure)\nพลังงานที่คุณใช้ในแต่ละวัน</string>
+    <string name="bmr_bmr">BMR</string>
+    <string name="bmr_tdee">TDEE</string>
+    <string name="energy_food">พลังงานจากอาหาร</string>
+    <string name="time_lap">รอบเวลา</string>
+    <string name="distance">ระยะทาง</string>
+    <string name="energy_usage">พลังงาน</string>
+    <string name="time_total">เวลาวิ่งรวมทั้งหมด</string>
+    <string name="distance_total">ระยะทางวิ่งรวมทั้งหมด</string>
+    <string name="energy_usage_total">พลังงานที่ใช้รวมทั้งหมด</string>
+    <string name="kilometre">กิโลเมตร</string>
+    <string name="kilo_calorie">กิโลแคลอรี่</string>
+    <string name="selected_food_add">เพิ่มอาหาร</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="running_burn_distance">ระยะทางที่วิ่ง</string>
+    <string name="energy_get">ได้รับพลังงาน</string>
+    <string name="energy_burn">เผาผลาญพลังงาน</string>
+    <string name="energy_need">ต้องการพลังงาน</string>
+    <string name="energy_over_burn">ใช้พลังงานเกินที่ได้รับ</string>
+    <string name="report_result_usage_energy">รวมพลังงานที่เผาผลาญไม่หมด</string>
+    <string name="from_tdee_energy">จาก TDEE คิดเป็น</string>
+    <string name="from_eat_energy">จากพลังงานที่ได้รับ คิดเป็น</string>
+    <string name="from_burn_energy_today">จากพลังงานที่ต้องใช้วันนี้ คิดเป็น</string>
+    <string name="need_energy">ต้องการพลังงานอีก</string>
+    <string name="over_energy">พลังงานได้รับเกินมา</string>
+    <string name="enough_energy">ได้รับพลังงานเพียงพอแล้ว</string>
+    <string name="save_report">บันทึกรายงาน</string>
+    <string name="delete_report">ลบรายงาน</string>
+    <string name="confirm_save_report">ต้องการเก็บข้อมูลทั้งหมดหรือไม่?</string>
+    <string name="confirm_delete_report">ต้องการลบรายงานนี้หรือไม่?</string>
+    <string name="history_reset">กลับไปวัน เดือน ปี ปัจจุบัน</string>
+    <string name="history_select_day">ดูรายงานวันที่เลือก</string>
+    <string name="history_select_month">ดูรายงานเดือนที่เลือก</string>
+    <string name="history_select_year">ดูรายงานปีที่เลือก</string>
+    <string name="gps_on">GPS On</string>
+    <string name="gps_off">GPS Off</string>
+    <string name="latitude">Latitude : </string>
+    <string name="longitude">Longitude : </string>
+
+    <string name="delete">ลบ</string>
+    <string name="food_quantity">จำนวนอาหาร</string>
+
+    <string-array name="bmr_variant">
+        <item>โปรดเลือกตัวแปร</item>
+        <item>นั่งทำงานอยู่กับที่ และไม่ได้ออกกำลังกายเลย</item>
+        <item>ออกกำลังกายหรือเล่นกีฬาเล็กน้อย 1-3 วัน/สัปดาห์</item>
+        <item>ออกกำลังกายหรือเล่นกีฬาปานกลาง 3-5 วัน/สัปดาห์</item>
+        <item>ออกกำลังกายหรือเล่นกีฬาอย่างหนัก 6-7 วัน/สัปดาห์</item>
+        <item>ออกกำลังกายหรือเล่นกีฬาอย่างหนักทุกวันเช้าเย็น</item>
+    </string-array>
+</resources>

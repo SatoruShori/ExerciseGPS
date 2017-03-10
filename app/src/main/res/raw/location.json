@@ -1,0 +1,38 @@
+﻿[
+  {
+    "name" : "LION GYM",
+    "latitude": 16.2334,
+    "longitude": 103.2586,
+    "address": "",
+    "open_time": "<b>เปิดทุกวัน</b><br>7:30 - 22:30",
+    "price_description": "รายวัน     : 40<br>รายเดือน    : 900<br>ราย 3 เดือน : 2200<br>ราย 6 เดือน : 4000<br>รายปี      : 6500",
+    "image":"lion_gym"
+  },
+  {
+    "name" : "Shark Gym",
+    "latitude": 16.1958,
+    "longitude": 103.2934,
+    "address": "",
+    "open_time": "<b>เปิด</b><br>6:00 - 24:00",
+    "price_description": "<b>[นักเรียน-นักศึกษา]</b><br>ราย 1 เดือน    800.-<br>ราย 3 เดือน    2,000.-<br>ราย 6 เดือน    3000.- เสื้อฟรี SHARK GYM<br>รายปี         5,000.- เสื้อฟรี SHARK GYM<br><br><br><b>[บุคคลทั่วไป]</b><br>ราย 1 เดือน    900.-<br>ราย 3 เดือน    2,300.-<br>ราย 6 เดือน    3700.- เสื้อฟรี SHARK GYM<br>รายปี         5,500.- เสื้อฟรี SHARK GYM",
+    "image":"shark_gym"
+  },
+  {
+    "name" : "YOUNG GYM",
+    "latitude": 16.1891,
+    "longitude": 103.2866,
+    "address": "",
+    "open_time": "<b>เปิดทุกวัน</b><br>จ.-ศ. 6:00 - 22:00<br>ส.-อ. 9:00 - 22:00",
+    "price_description": "",
+    "image":"young_gym"
+  },
+  {
+    "name" : "Metal Gym",
+    "latitude": 16.1903,
+    "longitude": 103.2862,
+    "address": "",
+    "open_time": "<b>เวลาเปิด-ปิด</b><br>9:00 - 23:00",
+    "price_description": "",
+    "image":"metal_gym"
+  }
+]
